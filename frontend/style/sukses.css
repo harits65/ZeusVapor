@@ -1,0 +1,57 @@
+/* nav */
+.navbar{
+    height: 60px;
+    background: #ffffff;
+    border-bottom: 1px solid #FFFFFF;
+}
+.nav-brn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+/* tutup nav */
+
+.succes{
+    margin-top: 90px;
+}
+.proses{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+
+    color: #000000;    
+}
+.btn-submit{
+    margin-top: 40px;
+    width: 400px;
+    height: 59px;
+    background: #1E1E1E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+.thanks{
+    margin-top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+
+    color: #000000;
+
+}

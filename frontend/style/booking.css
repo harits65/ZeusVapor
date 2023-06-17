@@ -1,0 +1,100 @@
+body{
+    background: #1E1E1E;
+}
+/* nav */
+.navbar{
+    height: 60px;
+    background: #1E1E1E;
+    border-bottom: 1px solid #FFFFFF;
+}
+.nav-brn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+/* tutup nav */
+
+/* booking */
+.bk{
+    margin-top: 70px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.produk{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+.mat{
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.mat span{
+    margin-left: 190px;
+}
+.grs{
+    margin-left: -250px;
+    width: 490px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+.data{
+    margin-left: -180px;
+}
+.in-label{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.form-text{
+    width: 380px;
+    height: 40px;
+    background: #F3F3F3;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+.btn-danger{
+    margin-top: 90px;
+    width: 380px;
+    height: 45px;
+    background: #C24E4E;
+    border-radius: 3px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.btn-cancel{
+
+    width: 380px;
+    height: 45px;
+    background: #DDDDDD;
+    border-radius: 3px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+    color: #000000;
+}
+/* tutup booking */
